@@ -79,7 +79,7 @@
                         </td>
 
                     </tr>
-                    <!-- <tr>
+                    <tr>
                         <td>Image</td>
                         <td>
                             <input class="inpuet_customm  @error('name') is-invalid @enderror" accept="image/*"
@@ -89,7 +89,7 @@
                                 <div class="text-danger">{{ $message }}</div>
                             @enderror
                         </td>
-                    </tr>  -->
+                    </tr>
 
                 </table>
                 <div class="btnConfirm">
